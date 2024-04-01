@@ -8,8 +8,8 @@
 <div> 
   
   <a href= "https://github.com/AvgvstaDev/">
-  <img width= "42%" src= "https://github-readme-stats.vercel.app/api?username=AvgvstaDev&theme=neon&show_icons=true">
-  <img width= "46%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AvgvstaDev&layout=compact&theme=neon">
+  <img width= "44%" src= "https://github-readme-stats.vercel.app/api?username=AvgvstaDev&theme=neon&show_icons=true">
+  <img width= "40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AvgvstaDev&layout=compact&theme=neon">
     
 </div>
 
