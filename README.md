@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me!</h3>
   
   <a href="mailto:vi_augusta@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F7AFBB&color:FFF"></a>
-  <a href="https://www.linkedin.com/in/augustacoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF"  target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augustacoelho"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF"  target="_blank"></a>
 
 
 <h3 align="left">My Stack ~</h3>
@@ -40,9 +40,8 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvgvstaDev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=242A5B&title_color=48C7EF&text_color=FFF&border_radius=3&border_color=48C7EF&icon_color=EDAEBF&theme=jolly" alt="GitHub stats" width=51%>
 
-  <a href="https://github.com/AvgvstaDev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvgvstaDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=EDAEBF&hide=html,css&bg_color=242A5B&text_color=8B8B8B&border_radius=3&border_color=48C7EF&count_private=true" alt="Most Used Languages" width=39%>
-  </a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvgvstaDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=EDAEBF&hide=html,css&bg_color=242A5B&text_color=8B8B8B&border_radius=3&border_color=48C7EF&count_private=true" alt="Most Used Languages" width=39%>
+ 
 </div>
 
 
