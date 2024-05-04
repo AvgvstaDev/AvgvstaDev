@@ -15,9 +15,9 @@
 <img align="right" alt="" height="190px" src="./src/studygirl2.jpg">
 
 <h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F7AFBB&color:FFF)](mailto:vi_augusta@usp.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF)](https://www.linkedin.com/in/augustacoelho)
+  
+  <a href="mailto:vi_augusta@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F7AFBB&color:FFF"></a>
+  <a href="https://www.linkedin.com/in/augustacoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF"></a>
 
 
 <h3 align="left">My Stack ~</h3>
@@ -50,7 +50,6 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvgvstaDev/AvgvstaDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvgvstaDev/AvgvstaDev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AvgvstaDev/AvgvstaDev/output/github-contribution-grid-snake.svg">
 </picture>
 
