@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvgvstaDev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=242A5B&title_color=48C7EF&text_color=FFF&border_radius=3&border_color=48C7EF&icon_color=EDAEBF&theme=jolly" alt="GitHub stats" width=51%>
 
   <a href="https://github.com/AvgvstaDev/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AvgvstaDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=EDAEBF&hide=html,css&bg_color=242A5B&text_color=8B8B8B&border_radius=3&border_color=48C7EF&count_private=true" alt="Most Used Languages" width=39%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvgvstaDev&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=EDAEBF&hide=html,css&bg_color=242A5B&text_color=8B8B8B&border_radius=3&border_color=48C7EF&count_private=true" alt="Most Used Languages" width=39%>
   </a>
 </div>
 
