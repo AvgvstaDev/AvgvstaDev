@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me!</h3>
   
   <a href="mailto:vi_augusta@usp.br" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F7AFBB&color:FFF"></a>
-  <a href="https://www.linkedin.com/in/augustacoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF"></a>
+  <a href="https://www.linkedin.com/in/augustacoelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7AFBB&color:FFF"  target="_blank"></a>
 
 
 <h3 align="left">My Stack ~</h3>
